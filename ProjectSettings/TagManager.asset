@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Cromossomo1
+  - Cromossomo2
+  - Fuso
+  - "N\xFAcleo"
+  - Nucleo
+  - Espaco1
+  - Espaco2
+  - EspacoNucleo
+  - EspacoCromo2
+  - "CanvasPe\xE7as"
+  - CanvasPecas
+  - EspacoCromo2-1
+  - EspacoFuso
+  - EspacoFuso2
+  - Espaco1.1
+  - Espaco2.2
+  - Score
+  - Finalizar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
